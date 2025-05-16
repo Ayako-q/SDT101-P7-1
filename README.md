@@ -11,3 +11,6 @@ Selection sort implemented in part 2
 Insertion sort implemented in part 4
 
 Merge sort implemented in part 6
+
+
+Loom link : https://www.loom.com/share/5be50c4cefd241efa27f44a7a49f401e?sid=ca9e49b5-deec-462c-a2bf-c4207f58d452
